@@ -48,7 +48,7 @@ const HeroSection = ({
             </Button>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4">
-            <a
+            {/* <a
               href="#"
               className="transform hover:scale-105 transition-transform"
             >
@@ -57,7 +57,7 @@ const HeroSection = ({
                 alt="Download on App Store"
                 className="h-12"
               />
-            </a>
+            </a> */}
             <a
               href="#"
               className="transform hover:scale-105 transition-transform"

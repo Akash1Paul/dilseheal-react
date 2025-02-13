@@ -92,7 +92,7 @@ const Footer = () => {
           <div className="mt-8 flex flex-col items-center space-y-4">
             <h3 className="text-xl font-bold mb-2">Download Our App</h3>
             <div className="flex space-x-4">
-              <a
+              {/* <a
                 href="#"
                 className="transform hover:scale-105 transition-transform"
               >
@@ -101,7 +101,7 @@ const Footer = () => {
                   alt="Download on App Store"
                   className="h-10"
                 />
-              </a>
+              </a> */}
               <a
                 href="#"
                 className="transform hover:scale-105 transition-transform"
